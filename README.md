@@ -1,2 +1,2 @@
 # Activator
-Easy way  to activate windos
+Easy way  to activate windows.
